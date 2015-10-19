@@ -1,0 +1,2 @@
+# primitive
+share code simply
