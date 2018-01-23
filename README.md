@@ -1,2 +1,2 @@
 # primitive
-share code simply
+share code
